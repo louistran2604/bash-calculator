@@ -1,4 +1,4 @@
-# bash-calculator
+# Bash Calculator
 A calculator made in bash.
 
 If you notice any issues, please feel free to tell me! :)
